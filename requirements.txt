@@ -47,7 +47,6 @@ bqplot
 # other libraries (optional)
 pandas>=2.2.3
 duckdb>=1.1.1
-magic_duckdb>=0.1.27
 arrow>=1.3.0
 pyarrow>=17.0.0
 pyarrow-hotfix>=0.6
